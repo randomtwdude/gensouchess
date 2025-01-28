@@ -14,7 +14,7 @@ That's enough ideas for a full chaos board!
 | King   | 4     | Remilia, Alice, Tewi, Joon |
 | Queen  | 6     | Reimu, Yukari, Yuuka, Sanae, Koishi, Toyohime |
 | Rook   | 7     | Marisa, Patchy, Yuyuko, Reisen, Aya, Suwako, Okuu |
-| Bishop | 5     | Kaguya, Eirin, Hina, Orin, Suika |
+| Bishop | 6     | Kaguya, Eirin, Hina, Orin, Suika, Mizuchi |
 | Knight | 6     | Sakuya, Youmu, Mokou, Satori, Tenshi, Futo |
 | Pawn   | 9     | Cirno, Flan, Mystia, Medicine, Parsee, Seiga, Seija, Lily White, Sunny |
 
@@ -158,7 +158,7 @@ Tewi places an invisible bear trap on any empty square. A piece hit by the trap 
 Reisen has gotten good at identifying traps through experience. Reisen is immune to Tewi's tricks.
 
 #### Scralet Lunacy
-Reisen chooses an opposing piece in her movement range and takes controls of it. She can control it as long as the piece remains in her movement range.
+Reisen chooses an opposing piece in her movement range and inflicts upon it lunacy which lasts `3` turns. Lunatic pieces may not be controlled and will make random legal moves on its own.
 
 ### Eirin
 - ♟️ Bishop
@@ -198,8 +198,8 @@ Suwako cannot catch pieces frozen by Cirno.
 - ♟️ Queen
 
 #### Face Off
-Sanae can challenge the competing army to a face off! For `5` turns, Sanae can move twice in a turn. If Sanae fails to capture at least nine points worth of material during the time, she is given a stern talking to
-by Kanako and demoted to a Rook.
+Sanae wants blood and your faith! For `5` turns, Sanae turns into a Rook but can move twice in a turn, smashing through the lines recklessly. If Sanae fails to capture at least nine points worth of material during the time, she is given a stern talking to
+by Kanako and permanently demoted to a Rook.
 
 Opposing Reimu's spells are disabled for the duration, she better watch out!
 
@@ -320,3 +320,8 @@ With a light wave of her fan, Toyohime connects the left and right sides of the 
 #### Fully Connected
 For `3` turns, every single one of your pieces enjoy the same powers as Toyohime herself.
 
+### Mizuchi
+- ♟️ Bishop
+
+#### Possession
+Mizuchi selects a piece within her movement range to possess for `2` turns, gaining full control over it. The possession is cancelled if Mizuchi moves or is otherwise attacked by any means.
