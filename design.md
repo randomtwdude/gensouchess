@@ -11,12 +11,12 @@
 That's enough ideas for a full chaos board!
 | Piece  | Count | Characters |
 | -----  | ----- | ---------- |
-| King   | 5     | Remilia, Alice, Keine, Tewi, Joon |
-| Queen  | 6     | Reimu, Yukari, Yuuka, Sanae, Koishi, Toyohime |
+| King   | 4     | Remilia, Alice, Keine, Tewi |
+| Queen  | 7     | Reimu, Yukari, Yuuka, Sanae, Koishi, Shion, Toyohime |
 | Rook   | 7     | Marisa, Patchy, Yuyuko, Reisen, Aya, Suwako, Okuu |
 | Bishop | 7     | Kaguya, Eirin, Eiki, Hina, Orin, Suika, Mizuchi |
 | Knight | 7     | Sakuya, Youmu, Mokou, Satori, Tenshi, Futo, Momoyo |
-| Pawn   | 11    | Cirno, Flan, Mystia, Medicine, Parsee, Seiga, Seija, Kokoro, Lily White, Sunny, Chimata |
+| Pawn   | 16    | Cirno, Flan, Mystia, Medicine, Kanako, Parsee, Seiga, Seija, Joon, Kokoro, Sekibanki, Lily White, Aunn, Sunny, Tipsy, Chimata |
 
 ### Reimu
 - ♟️ Queen
@@ -193,6 +193,12 @@ Invisible pieces don't show up at trials and are exempt.
 At the start of your turn, all opposing pieces immediately surrounding Medicine become poisoned.
 If, at any moment, three or more poisoned pieces occupy any 2x2 area, all of them suffer heart attacks and die on the spot.
 
+### Kanako
+- ♟️ Pawn
+
+#### High Wind God
+The weather is crazy out there. The wind pushes the pieces in front of Kanako, in her file and to its left and right, back `2` squares. Pieces are destroyed if the movement is otherwise impossible.
+
 ### Suwako
 - ♟️ Rook
 - 🐸 Frog
@@ -286,10 +292,16 @@ Tenshi messes around and causes an earthquake! The earthquake has a `?` chance t
 Reimu will be immobilized for `1` extra turn by this spell; its use, whether or not it actually affects Reimu, enrages the shrine maiden.
 
 ### Joon
-- ♟️ King
+- ♟️ Pawn
 
 #### Divestment
 Joon compels both players to play recklessly and wastefully. For the next `3` turns, capturing is mandatory if possible for both sides.
+
+### Shion
+- ♟️ Queen
+
+#### Mutual Misfortune
+The player which controls more material must give up their pieces such that they no longer have the material advantage.
 
 ### Kokoro
 - ♟️ Pawn
@@ -305,6 +317,12 @@ In addition to the original square she is on, select two empty squares on the bo
 
 Only one is the real Suika, she will be at one of the three squares chosen by you, her identity is only known to you. Only the real Suika may capture and cast spells.
 
+### Sekibanki
+- ♟️ Pawn
+
+#### Detached HEAD state
+Capturing a piece sets Sekibanki into detached HEAD state, she simply spawns a new Banki at the captured square. The original Banki cannot cast this spell again.
+
 ### Futo
 - ♟️ Knight
 
@@ -317,6 +335,12 @@ At the start of your turn, Futo sets opposing pieces immediately surrounding her
 
 #### Haru-binger
 The gentle breeze of spring cleanses negative effects of friendly pieces immediately around her every other turn.
+
+### Aunn
+- ♟️ Pawn
+
+#### En Garde
+Aunn can choose to become the stone guardian of the Shrine or return to her moving state at any time. While Aunn is acting as a guardian, she cannot move, be captured, is immune to negative effects and explosions.
 
 ### Momoyo
 - ♟️ Knight
@@ -350,6 +374,17 @@ With a light wave of her fan, Toyohime connects the left and right sides of the 
 
 #### Fully Connected
 For `3` turns, every single one of your pieces enjoy the same powers as Toyohime herself.
+
+### Tipsy
+- ♟️ Pawn
+- 🧚 Fairy
+
+#### Ballistic Fairy
+When a Queen is next to Tipsy, they can choose to launch her in any of eight directions. The Ballistic Tipsy has a maximum range of 4 squares or 3 diagonals, if she strikes a piece, the target is destroyed while Tipsy herself is stunned for `3` moves.
+When Tipsy is fired by Reimu, there is no range restrictions and target struck is annihilated.
+A Ballistic Tipsy will be blocked by and stop in front of an invulnerable target.
+
+> Jo2n's cute fairy
 
 ### Chimata
 - ♟️ Pawn
