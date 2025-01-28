@@ -14,9 +14,9 @@ That's enough ideas for a full chaos board!
 | King   | 5     | Remilia, Alice, Keine, Tewi, Joon |
 | Queen  | 6     | Reimu, Yukari, Yuuka, Sanae, Koishi, Toyohime |
 | Rook   | 7     | Marisa, Patchy, Yuyuko, Reisen, Aya, Suwako, Okuu |
-| Bishop | 6     | Kaguya, Eirin, Hina, Orin, Suika, Mizuchi |
-| Knight | 6     | Sakuya, Youmu, Mokou, Satori, Tenshi, Futo |
-| Pawn   | 9     | Cirno, Flan, Mystia, Medicine, Parsee, Seiga, Seija, Lily White, Sunny |
+| Bishop | 7     | Kaguya, Eirin, Eiki, Hina, Orin, Suika, Mizuchi |
+| Knight | 7     | Sakuya, Youmu, Mokou, Satori, Tenshi, Futo, Momoyo |
+| Pawn   | 11    | Cirno, Flan, Mystia, Medicine, Parsee, Seiga, Seija, Kokoro, Lily White, Sunny, Chimata |
 
 ### Reimu
 - ♟️ Queen
@@ -179,6 +179,13 @@ Aya only spreads the finest information. Designate a move (with a piece type and
 #### Blooming Chaos
 It's her happy day! A sunflower sprouts at any square within her movement range. If the square is unoccupied, the sunflower blocks it for `2` turns. If the square is occupied, the piece on it is rooted in place and immobilized for `2` turn.
 
+### Eiki
+- ♟️ Bishop
+
+#### Prosecution
+The entire opposing army is now on trial for multiple offenses against souls. All opposing pieces that are found responsible for killing 3 pieces and above are declared guilty and sentenced to death.
+Invisible pieces don't show up at trials and are exempt.
+
 ### Medicine
 - ♟️ Pawn
 
@@ -284,6 +291,12 @@ Reimu will be immobilized for `1` extra turn by this spell; its use, whether or 
 #### Divestment
 Joon compels both players to play recklessly and wastefully. For the next `3` turns, capturing is mandatory if possible for both sides.
 
+### Kokoro
+- ♟️ Pawn
+
+#### Sad Mask
+Kokoro selects any piece excluding the King within her movement and capture range and forces it to have cripplingly low self-esteem. The piece is now really, really sad and it must capture any piece within three moves to validate its worth; otherwise it will leave the board in sadness.
+
 ### Suika
 - ♟️ Bishop
 
@@ -304,6 +317,15 @@ At the start of your turn, Futo sets opposing pieces immediately surrounding her
 
 #### Haru-binger
 The gentle breeze of spring cleanses negative effects of friendly pieces immediately around her every other turn.
+
+### Momoyo
+- ♟️ Knight
+
+#### Blast Protection enchantment.level.255
+She claims it's fully survival. Whichever case it may be, Momoyo is immune to explosions. Master Sparks are not explosions.
+
+#### Dynamite
+Momoyo digs a hole and hides a TNT in it. She can detonate the TNT if she later comes back to the square. Momoyo can put down multiple TNT and they will all detonate at once. The explosions kill the piece occupying the square.
 
 ### Sunny
 - ♟️ Pawn
@@ -328,6 +350,12 @@ With a light wave of her fan, Toyohime connects the left and right sides of the 
 
 #### Fully Connected
 For `3` turns, every single one of your pieces enjoy the same powers as Toyohime herself.
+
+### Chimata
+- ♟️ Pawn
+
+#### Return To Nothing
+Chimata forces your opponent to pick a piece they control to give up. The piece given up becomes neutral and is capturable.
 
 ### Mizuchi
 - ♟️ Bishop
