@@ -11,7 +11,7 @@
 That's enough ideas for a full chaos board!
 | Piece  | Count | Characters |
 | -----  | ----- | ---------- |
-| King   | 4     | Remilia, Alice, Tewi, Joon |
+| King   | 5     | Remilia, Alice, Keine, Tewi, Joon |
 | Queen  | 6     | Reimu, Yukari, Yuuka, Sanae, Koishi, Toyohime |
 | Rook   | 7     | Marisa, Patchy, Yuyuko, Reisen, Aya, Suwako, Okuu |
 | Bishop | 6     | Kaguya, Eirin, Hina, Orin, Suika, Mizuchi |
@@ -202,6 +202,15 @@ Sanae wants blood and your faith! For `5` turns, Sanae turns into a Rook but can
 by Kanako and permanently demoted to a Rook.
 
 Opposing Reimu's spells are disabled for the duration, she better watch out!
+
+### Keine
+- ♟️ King
+
+#### Ahistoric
+Move history is hidden from your opponent.
+
+#### Foggy Past
+Keine erases the opponent's recollection of your position. All squares not within the opponent's movement range become invisible to them just like in Fog of War; however, once the fog on one square is cleared once, it remains clear.
 
 ### Hina
 - ♟️ Bishop
