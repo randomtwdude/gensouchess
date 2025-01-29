@@ -12,10 +12,10 @@ That's enough ideas for a full chaos board!
 | Piece  | Count | Characters |
 | -----  | ----- | ---------- |
 | King   | 4     | Remilia, Alice, Keine, Tewi |
-| Queen  | 7     | Reimu, Yukari, Yuuka, Sanae, Koishi, Shion, Toyohime |
+| Queen  | 8     | Reimu, Yukari, Yuuka, Sanae, Koishi, Doremy, Shion, Toyohime |
 | Rook   | 7     | Marisa, Patchy, Yuyuko, Reisen, Aya, Suwako, Okuu |
-| Bishop | 7     | Kaguya, Eirin, Eiki, Hina, Orin, Suika, Mizuchi |
-| Knight | 7     | Sakuya, Youmu, Mokou, Satori, Tenshi, Futo, Momoyo |
+| Bishop | 8     | Kaguya, Eirin, Eiki, Hina, Orin, Suika, Nitori, Mizuchi |
+| Knight | 8     | Sakuya, Youmu, Mokou, Satori, Tenshi, Futo, Momoyo, Shinmyoumaru |
 | Pawn   | 16    | Cirno, Flan, Mystia, Medicine, Kanako, Parsee, Seiga, Seija, Joon, Kokoro, Sekibanki, Lily White, Aunn, Sunny, Tipsy, Chimata |
 
 ### Reimu
@@ -157,7 +157,7 @@ Tewi places an invisible bear trap on any empty square. A piece hit by the trap 
 #### Just Another Day
 Reisen has gotten good at identifying traps through experience. Reisen is immune to Tewi's tricks.
 
-#### Scralet Lunacy
+#### Scarlet Lunacy
 Reisen chooses an opposing piece in her movement range and inflicts upon it lunacy which lasts `3` turns. Lunatic pieces may not be controlled and will make random legal moves on its own.
 
 ### Eirin
@@ -269,6 +269,12 @@ Satori reads the opponent's mind and sees a move...
 
 Designate a move (with a piece type and destination) for your opponent; if it is legal now, they must play it within three moves or lose.
 
+### Doremy
+- ♟️ Queen
+
+#### U r my dream
+Descend into your dream world... For `3` turns, all of your non-pawn pieces move like Queens! After the dream is over, the board returns to the state before this spell is cast.
+
 ### Seiga
 - ♟️ Pawn
 
@@ -277,6 +283,8 @@ Seiga can move forward through any number of pieces. She can promote from this. 
 
 ### Seija
 - ♟️ Pawn
+
+#### Flipped World
 Seija can move (but not capture) backwards. She can also en passant multiple times.
 
 ### Tenshi
@@ -351,6 +359,12 @@ She claims it's fully survival. Whichever case it may be, Momoyo is immune to ex
 #### Dynamite
 Momoyo digs a hole and hides a TNT in it. She can detonate the TNT if she later comes back to the square. Momoyo can put down multiple TNT and they will all detonate at once. The explosions kill the piece occupying the square.
 
+### Shinmyoumaru
+- ♟️ Knight
+
+#### BONK
+That's it! I'm gettin' me mallet! Shinmyoumaru can swing her Miracle Mallet anywhere she can move to, making her foes small for `3` turns. Small pieces move and capture like pawns but may not en passant.
+
 ### Sunny
 - ♟️ Pawn
 - 🧚 Fairy
@@ -360,11 +374,12 @@ When Sunny has advanced past the fourth rank and is not being attacked by any op
 
 #### Soyya soyya soyya soyya!
 When Sunny & Luna has advanced past the fifth rank and is not being attacked by any opposing pieces, they secretly call in their partner in crime -- Star Sapphire! The piece is transformed into The Three Fairies.
+Using this spell enrages Reimu.
 
 #### Great Fairy War
 The Three Fairies together make the dream work! Become a Queen immediately.
 
-If you control at least one other fairy, target an opposing Queen with a big prank, immobolizing it for `3` turns. Using this spell enrages Reimu.
+If you control at least one other fairy, target an opposing Queen with a big prank, immobolizing it for `3` turns.
 
 ### Toyohime
 - ♟️ Queen
@@ -374,6 +389,14 @@ With a light wave of her fan, Toyohime connects the left and right sides of the 
 
 #### Fully Connected
 For `3` turns, every single one of your pieces enjoy the same powers as Toyohime herself.
+
+### Nitori
+- ♟️ Bishop
+
+#### Remote Control
+The Kappa Industries (tm) Remote Control Apparatus (tm) allows Nitori to control another piece for you. Nitori can install the Remote Control on any friendly piece within her movement range. Whenever Nitori is to move, the piece with Remote Control installed can be moved as well, after Nitori.
+
+The Remote Control Apparatus has a charge of 5 uses. Every capture by Nitori recharges it by one use.
 
 ### Tipsy
 - ♟️ Pawn
