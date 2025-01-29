@@ -13,7 +13,7 @@ That's enough ideas for a full chaos board!
 | -----  | ----- | ---------- |
 | King   | 4     | Remilia, Alice, Keine, Tewi |
 | Queen  | 8     | Reimu, Yukari, Yuuka, Sanae, Koishi, Doremy, Shion, Toyohime |
-| Rook   | 7     | Marisa, Patchy, Yuyuko, Reisen, Aya, Suwako, Okuu |
+| Rook   | 8     | Marisa, Patchy, Yuyuko, Reisen, Aya, Sagume, Suwako, Okuu |
 | Bishop | 8     | Kaguya, Eirin, Eiki, Hina, Orin, Suika, Nitori, Mizuchi |
 | Knight | 8     | Sakuya, Youmu, Mokou, Satori, Tenshi, Futo, Momoyo, Shinmyoumaru |
 | Pawn   | 16    | Cirno, Flan, Mystia, Medicine, Kanako, Parsee, Seiga, Seija, Joon, Kokoro, Sekibanki, Lily White, Aunn, Sunny, Tipsy, Chimata |
@@ -186,6 +186,12 @@ It's her happy day! A sunflower sprouts at any square within her movement range.
 The entire opposing army is now on trial for multiple offenses against souls. All opposing pieces that are found responsible for killing 3 pieces and above are declared guilty and sentenced to death.
 Invisible pieces don't show up at trials and are exempt.
 
+### Sagume
+- ♟️ Rook
+
+#### Not As I Say
+"What a brilliant move that was!" Sagume said in comment to the last move the opponent made. Oh no, it was suddenly reversed. Invalidate your opponent's last move.
+
 ### Medicine
 - ♟️ Pawn
 
@@ -210,11 +216,11 @@ Suwako cannot catch pieces frozen by Cirno.
 ### Sanae
 - ♟️ Queen
 
-#### Face Off
-Sanae wants blood and your faith! For `5` turns, Sanae turns into a Rook but can move twice in a turn, smashing through the lines recklessly. If Sanae fails to capture at least nine points worth of material during the time, she is given a stern talking to
-by Kanako and permanently demoted to a Rook.
+#### Blessed
+Sanae is able to manipulate all chance based effects, making her immune to lunacy. In addition, Sanae ignores Reimu's Maiden's Grace dodge.
 
-Opposing Reimu's spells are disabled for the duration, she better watch out!
+#### Miracle Tornado
+Sanae calls upon a tornado to strategically and rapidly reposition her allies. Select any piece within her movement range and relocate it to any square within the same range.
 
 ### Keine
 - ♟️ King
